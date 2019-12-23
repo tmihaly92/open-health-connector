@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}",
+                "E:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src",
+                "E:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include",
+                "C:\\Users\\Misi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.6.20\\**",
+                "C:\\Users\\Misi\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Misi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.6.20\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}

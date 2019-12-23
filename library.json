@@ -1,0 +1,23 @@
+{
+"name": "Open Health Connector",
+"frameworks": "Arduino",
+"keywords": "openhealth",
+"description": "OneWire slave device emulator with support for up to 32 simultaneous devices",
+"authors":
+[
+    {
+        "name": "Michael Tóth",
+        "url": "http://github.com/tmihaly92",
+        "maintainer": true
+    }
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/tmihaly92/open-health-connector"
+},
+    "version": "1.0.0",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "sketch": "openHealthConnector.ino",
+    "board": "arduino:samd:mkrwifi1010",
+    "port": "COM3"
+}
